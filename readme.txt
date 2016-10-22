@@ -3,7 +3,7 @@ Contributors: ddean, garrett-eclipse, johappel
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6BKDCMJRYPKNN&lc=US&item_name=BP%20Group%20Organizer&currency_code=USD
 Tags: buddypress, group, groups, edit, organize, move, drag and drop
 Requires at least: 3.1
-Tested up to: 3.6
+Tested up to: WP 4.6.1 , BP 2.7.0
 Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
